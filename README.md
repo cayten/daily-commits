@@ -1,1 +1,1 @@
-# placeholder (detay README üst dizinde)
+# placeholder
