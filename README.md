@@ -1,2 +1,2 @@
-# Day 2 - Step-by-Step Addition Explainer
-Given two numbers, we show column addition step by step like a mini-teacher.
+# Day 3 - Fraction Simplifier
+Enter a fraction like 42/56 and we reduce it using gcd.
