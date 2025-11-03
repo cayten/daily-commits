@@ -1,2 +1,2 @@
-# Day 3 - Fraction Simplifier
-Enter a fraction like 42/56 and we reduce it using gcd.
+# Day 4 - Linear Equation Checker
+We verify if x satisfies ax + b = c.
