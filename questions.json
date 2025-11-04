@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "prompt": "5 + 7 = ?",
+      "answer": 12
+    },
+    {
+      "prompt": "Solve x in 2x=10",
+      "answer": 5
+    },
+    {
+      "prompt": "Simplify 6/8",
+      "answer": "3/4"
+    }
+  ]
+}
