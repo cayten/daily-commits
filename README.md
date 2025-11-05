@@ -1,2 +1,6 @@
-# Day 5 - Mini Quiz Engine (JSON-driven)
-You can define questions in questions.json and run quiz.py.
+# Day 6 - FastAPI Math API
+Run uvicorn main:app --reload
+Endpoints:
+- GET /health
+- POST /add {a,b}
+- POST /simplify {n,d}
