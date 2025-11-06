@@ -1,6 +1,3 @@
-# Day 6 - FastAPI Math API
-Run uvicorn main:app --reload
-Endpoints:
-- GET /health
-- POST /add {a,b}
-- POST /simplify {n,d}
+# Day 7 - Static Frontend Demo
+Simple landing page for CAYTEN Math Tutor.
+Open index.html in a browser.
