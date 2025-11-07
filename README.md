@@ -1,3 +1,4 @@
-# Day 7 - Static Frontend Demo
-Simple landing page for CAYTEN Math Tutor.
-Open index.html in a browser.
+# Day 1 – Mastermind (Bulls & Cows)
+CLI oyun: 4 haneli gizli sayıyı tahmin et. Her tahminde Bulls (doğru rakam/doğru yer) ve Cows (doğru rakam/yanlış yer) verilir.
+
+Çalıştır: `python mastermind.py`
