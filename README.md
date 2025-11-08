@@ -1,4 +1,5 @@
-# Day 1 – Mastermind (Bulls & Cows)
-CLI oyun: 4 haneli gizli sayıyı tahmin et. Her tahminde Bulls (doğru rakam/doğru yer) ve Cows (doğru rakam/yanlış yer) verilir.
+# Day 2 – Word Ladder (BFS)
+Başlangıç ve hedef kelimeyi ver, sözlükten BFS ile en kısa dönüşüm yolunu bul.
 
-Çalıştır: `python mastermind.py`
+Çalıştır: `python ladder.py start end`
+Sözlük: `words.txt`
