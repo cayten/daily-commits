@@ -1,4 +1,4 @@
-# Day 3 – Labirent Üretici & Çözücü
-ASCII labirent üret ve BFS ile çözüm yolunu işaretle.
+# Day 4 – Şifreler (Caesar & Vigenère)
+Mesajları şifrele/çöz.
 
-Çalıştır: `python maze.py` (varsayılan 21x21)
+Çalıştır: `python ciphers.py`
