@@ -1,4 +1,4 @@
-# Day 4 – Şifreler (Caesar & Vigenère)
-Mesajları şifrele/çöz.
+# Day 5 – Sudoku Doğrulayıcı & Çözücü
+9x9 Sudoku metnini stdin’den alır, doğrular ve backtracking ile çözer.
 
-Çalıştır: `python ciphers.py`
+Çalıştır: `python sudoku.py < puzzle.txt`
