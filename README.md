@@ -1,4 +1,4 @@
-# Day 5 – Sudoku Doğrulayıcı & Çözücü
-9x9 Sudoku metnini stdin’den alır, doğrular ve backtracking ile çözer.
+# Day 6 – Mini Metin Macerası
+Basit bir oda/nesne/komut sistemi. Komutlar: `look`, `go <dir>`, `take <item>`, `use <item>`.
 
-Çalıştır: `python sudoku.py < puzzle.txt`
+Çalıştır: `python adventure.py`
