@@ -1,6 +1,4 @@
-# Day 3 – UI Testing (Selenium)
-
-Sunucu: `python -m http.server 8000 -d static`
+# Day 4 – JSON Schema Contract
 
 ```bash
 pip install -r requirements.txt
