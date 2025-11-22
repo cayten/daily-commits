@@ -1,4 +1,4 @@
-# Day 4 – JSON Schema Contract
+# Day 5 – Property-Based Testing
 
 ```bash
 pip install -r requirements.txt
