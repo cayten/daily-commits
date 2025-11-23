@@ -1,4 +1,4 @@
-# Day 5 – Property-Based Testing
+# Day 6 – Mocking
 
 ```bash
 pip install -r requirements.txt
