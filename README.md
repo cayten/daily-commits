@@ -1,6 +1,3 @@
-# Day 6 – Mocking
+# Day 7 – GitHub Actions CI
 
-```bash
-pip install -r requirements.txt
-pytest -q
-```
+Workflow dosyasını ana repo köküne koy.
