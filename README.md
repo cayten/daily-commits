@@ -1,10 +1,11 @@
-# Day 1 – Rule-based Sentiment Analyzer
+# Day 2 – ML Duygu Analizi (scikit-learn)
 
-Basit, tamamen kural tabanlı bir duygu analizi aracı.
-Negatif/pozitif kelime listeleri ile cümleyi sınıflandırır.
+Küçük bir eğitim datası ile LogisticRegression kullanarak pozitif/negatif sınıflandırma.
+Sadece eğitim amaçlı minik demo.
 
-Çalıştırma:
+Kurulum ve çalıştırma:
 
 ```bash
-python sentiment_rule_based.py
+pip install -r requirements.txt
+python train_and_demo.py
 ```
