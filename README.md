@@ -1,11 +1,10 @@
-# Day 2 – ML Duygu Analizi (scikit-learn)
+# Day 3 – Markov Text Generator
 
-Küçük bir eğitim datası ile LogisticRegression kullanarak pozitif/negatif sınıflandırma.
-Sadece eğitim amaçlı minik demo.
+Basit bir kelime-seviyeli Markov zinciri ile cümle üreten mini proje.
+`corpus.txt` içinden öğrenir.
 
-Kurulum ve çalıştırma:
+Çalıştırma:
 
 ```bash
-pip install -r requirements.txt
-python train_and_demo.py
+python markov_gen.py
 ```
