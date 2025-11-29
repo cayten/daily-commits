@@ -1,10 +1,10 @@
-# Day 3 – Markov Text Generator
+# Day 4 – FAQ Retrieval Bot (TF-IDF + Cosine)
 
-Basit bir kelime-seviyeli Markov zinciri ile cümle üreten mini proje.
-`corpus.txt` içinden öğrenir.
+Basit bir FAQ listesi içinden, kullanıcı sorusuna en benzer cevabı bulur.
 
-Çalıştırma:
+Kurulum ve çalıştırma:
 
 ```bash
-python markov_gen.py
+pip install -r requirements.txt
+python faq_bot.py
 ```

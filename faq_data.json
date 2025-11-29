@@ -1,0 +1,18 @@
+[
+  {
+    "q": "How do I reset my password?",
+    "a": "Go to Settings > Security and click on 'Reset password'. You will receive an email."
+  },
+  {
+    "q": "How can I contact support?",
+    "a": "You can reach support via the Help Center chat or by sending an email to support@example.com."
+  },
+  {
+    "q": "Where can I see my billing history?",
+    "a": "Open the Billing page from your profile menu to see invoices and payment history."
+  },
+  {
+    "q": "Can I export my data?",
+    "a": "Yes, you can export your data as CSV from the Account > Data Export section."
+  }
+]
