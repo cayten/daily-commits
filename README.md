@@ -1,10 +1,16 @@
-# Day 6 – Toy Language Detector (scikit-learn)
+# Day 7 – Tiny Intent Classifier (Rule + Similarity)
 
-Çok küçük bir eğitim datası ile EN/TR/ES dillerini karakter n-gram özellikleriyle ayırt etmeye çalışan demo.
+Çok basit bir niyet sınıflandırıcı:
+- greeting
+- weather
+- help
+- other
+
+Ana fikir: önce keyword, sonra TF-IDF cosine ile en yakın örneği bul.
 
 Kurulum ve çalıştırma:
 
 ```bash
 pip install -r requirements.txt
-python lang_detector.py
+python intent_cli.py
 ```
