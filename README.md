@@ -1,16 +1,14 @@
-# Day 7 – Tiny Intent Classifier (Rule + Similarity)
+# Day 1 – Sorting Algorithms Demo
 
-Çok basit bir niyet sınıflandırıcı:
-- greeting
-- weather
-- help
-- other
+Basit bir CLI aracı: aynı listeyi üç farklı algoritma ile sıralayıp adım sayılarını karşılaştırır.
 
-Ana fikir: önce keyword, sonra TF-IDF cosine ile en yakın örneği bul.
+Algoritmalar:
+- Bubble Sort
+- Insertion Sort
+- Quick Sort (recursive)
 
-Kurulum ve çalıştırma:
+Çalıştırma:
 
 ```bash
-pip install -r requirements.txt
-python intent_cli.py
+python sorting_demo.py
 ```
