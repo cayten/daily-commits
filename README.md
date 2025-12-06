@@ -1,9 +1,13 @@
-# Day 2 – Binary Search Explorer
+# Day 3 – Singly Linked List
 
-Sıralı listede binary search adımlarını gösteren küçük araç.
+Basit bir tek yönlü bağlı liste implementasyonu:
+- prepend
+- append
+- delete
+- find
 
 Çalıştırma:
 
 ```bash
-python binary_search.py
+python linked_list.py
 ```
